@@ -86,3 +86,5 @@ The entirety of this project comprises sample code demonstrating the following p
 #### <p align="center"> Gaming Community </p>
 
 
+## For a more comprehensive explanation, please consult the project report, review the code, and refer to the presentation.
+
