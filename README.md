@@ -73,7 +73,7 @@ The entirety of this project comprises sample code demonstrating the following p
   <img src="https://github.com/Heyyassinesedjari/Twitter-Community-Detection/assets/94799575/6bbca4d4-7d1a-4c1c-be5f-1d8e150b0804" width="50%" height="50%">
 </p>
 
-#### <p align="center"> Music Cluster </p>
+#### <p align="center"> Music Community </p>
 <p align="center">
   <img src="https://github.com/Heyyassinesedjari/Twitter-Community-Detection/assets/94799575/9ca805f3-ac59-43b2-b04b-9a6fd3ec7a4e" width="50%" height="50%">
 </p>
